@@ -1,4 +1,4 @@
-#JavaScript Calculator
+# calculator-in-JS
 <br>
 A simple calculator built with HTML, CSS, and JavaScript. This project demonstrates basic arithmetic operations and a user-friendly interface.
 <br>
