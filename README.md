@@ -1,7 +1,6 @@
 # calculator-in-JS
-<br>
 A simple calculator built with HTML, CSS, and JavaScript, inspired by a YouTube tutorial. This project performs basic arithmetic operations and features a user-friendly interface.
-<br>
+
 <h1>Features</h1>
 Performs basic arithmetic operations: addition, subtraction, multiplication, and division
 <br>
